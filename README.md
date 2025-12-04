@@ -1,5 +1,5 @@
-# learning-azure-infrastructure-solutions
-Learning Azure Infrastructure Solutions
+learning-azure-infrastructure-solutions
+# Learning Azure Infrastructure Solutions
 
 ```
 learning-azure-az305/
