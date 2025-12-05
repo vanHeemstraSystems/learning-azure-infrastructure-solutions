@@ -1,6 +1,8 @@
 learning-azure-infrastructure-solutions
 # Learning Azure Infrastructure Solutions
 
+- [Azure Infrasructure Solutions - Podcast](./REFERENCES.md)
+
 ```
 learning-azure-az305/
 ├── README.md
